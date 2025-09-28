@@ -1,6 +1,8 @@
 📊 Schedule Quality Report (Primavera P6 → Excel → Power BI)
 🔎 Overview
 
+[Schedule Quality.pdf](https://github.com/user-attachments/files/22584343/Schedule.Quality.pdf)
+
 This project demonstrates how to transform a Primavera P6 schedule export (Excel) into an interactive Power BI report that analyzes schedule quality.
 
 The report helps project controls teams, planners, and managers to quickly identify risks, validate schedule health, and ensure compliance with planning standards.
